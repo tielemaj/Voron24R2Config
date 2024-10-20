@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 800x640 -f 5
